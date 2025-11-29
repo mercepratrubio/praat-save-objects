@@ -64,6 +64,7 @@ if audios = 1
 
 endif
 
-writeInfoLine: "Completed"
+writeInfoLine: "Completed! :)"
 appendInfoLine: "Objects saved at:" + folder$
+
    
